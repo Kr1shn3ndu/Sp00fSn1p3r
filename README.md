@@ -18,4 +18,4 @@ Requirement: Python
 
 POC -->
 
-![Output 2](output2.png)
+![Output](output.png)
