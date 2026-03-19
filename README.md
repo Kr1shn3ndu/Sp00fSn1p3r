@@ -16,5 +16,7 @@ The objective of this project is to understand how attackers disguise files and 
 
 Requirement: Python
 
+POC -->
+
 <img width="522" height="151" alt="image" src="https://github.com/user-attachments/assets/f287c34b-44ce-4db7-bc46-2f1ef61191aa" />
 
