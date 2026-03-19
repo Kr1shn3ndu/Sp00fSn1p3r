@@ -1,4 +1,6 @@
-<img width="623" height="104" alt="image" src="https://github.com/user-attachments/assets/b44ff5b1-5d40-4d54-b365-776cbc6e3e22" />
+<p align="center">
+  <img width="623" height="104" alt="image" src="https://github.com/user-attachments/assets/b44ff5b1-5d40-4d54-b365-776cbc6e3e22" />
+</p>
 
 Sp00fSn1p3r is a tool for analyzing files, which can be used to identify disguises in files, as used in various malwares.
 
