@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="output1.png" width="600"/>
+  <img src="logo.png" width="600"/>
 </p>
 
 Sp00fSn1p3r is a tool for analyzing files, which can be used to identify disguises in files, as used in various malwares.
