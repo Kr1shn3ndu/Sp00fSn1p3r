@@ -12,7 +12,7 @@ Features:
 3. Double extension detection
 4. Basic file structure validation (for PNG)
 
-The objective of this project is to understand how attackers disguise files and how this can be identified using static analysis techniques.
+The objective of this project is to understand how attackers disguise files and how this can be identified using <u>static analysis techniques</u>
 
 Requirement: Python
 
